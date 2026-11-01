@@ -16,3 +16,5 @@ Fisierul contine urmatoarele coloane:
 | `ratings_count` | int | Numarul de evaluari primite. |
 
 https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
+
+Datele au fost incarcate cu succes in Recombee
